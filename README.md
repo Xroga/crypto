@@ -1,4 +1,4 @@
-# Your Website
+# Xroga/crypto
 
 [![Built with XROGA AI](https://xroga.com/icon.png)](https://xroga.com)
 
